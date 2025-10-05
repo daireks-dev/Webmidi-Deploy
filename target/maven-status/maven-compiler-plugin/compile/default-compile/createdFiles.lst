@@ -6,3 +6,4 @@ com/example/demo/user/UserController.class
 com/example/demo/user/UserRepository.class
 com/example/demo/user/UserService.class
 com/example/demo/user/User.class
+com/example/demo/user/Theme.class
